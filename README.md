@@ -40,10 +40,10 @@
 
     -Creating custom policy for EC2 full access and S3 bucket create access.
 
- ![App Screenshot](https://github.com/asin-sudo/o1pro/blob/main/identity1.jpg?raw=true)
+ ![App Screenshot]( https://raw.githubusercontent.com/asin-sudo/o1pro/main/identity2.jpg)
    
 -JSON FORMAT:
- ![Policy in Json format ](https://raw.githubusercontent.com/asin-sudo/o1pro/main/identity2.jpg)
+ ![Policy in Json format ](https://github.com/asin-sudo/o1pro/blob/main/identity1.jpg?raw=true)
  
  -Attaching the policy to the user:
   ![Attching policy](https://github.com/asin-sudo/o1pro/blob/main/identity3.png?raw=true)
@@ -52,7 +52,7 @@
   ![Attaching policy](https://github.com/asin-sudo/o1pro/blob/main/identity4.png?raw=true).
 
   
-  
+ 
 
 
     
