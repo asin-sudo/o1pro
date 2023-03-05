@@ -40,16 +40,16 @@
 
     -Creating custom policy for EC2 full access and S3 bucket create access.
 
- ![App Screenshot](https://gitlab.01procenter.com/01procenter/proassociates/batch-2/aws/design-secure-apps-and-arch/design-secure-access-to-aws-resources/aws-resource-policies/uploads/513f83ee6687af0c6f2a2ca3fdbe7115/image.png)
+ ![App Screenshot](https://github.com/asin-sudo/o1pro/blob/main/identity1.jpg?raw=true)
    
 -JSON FORMAT:
- ![Policy in Json format ](https://gitlab.01procenter.com/01procenter/proassociates/batch-2/aws/design-secure-apps-and-arch/design-secure-access-to-aws-resources/aws-resource-policies/-/issues/1#note_1525)
+ ![Policy in Json format ](https://raw.githubusercontent.com/asin-sudo/o1pro/main/identity2.jpg)
  
  -Attaching the policy to the user:
-  ![Attching policy](https://gitlab.01procenter.com/01procenter/proassociates/batch-2/aws/design-secure-apps-and-arch/design-secure-access-to-aws-resources/aws-resource-policies/-/issues/1#note_1526)
+  ![Attching policy](https://github.com/asin-sudo/o1pro/blob/main/identity3.png?raw=true)
 
   -Accesing user from aws cli:
-  ![Attaching policy](https://gitlab.01procenter.com/01procenter/proassociates/batch-2/aws/design-secure-apps-and-arch/design-secure-access-to-aws-resources/aws-resource-policies/-/issues/1#note_1527).
+  ![Attaching policy](https://github.com/asin-sudo/o1pro/blob/main/identity4.png?raw=true).
 
   
   
